@@ -3,8 +3,7 @@
 Fonts
 ===============
 */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 /*
 =============== 
 Variables
@@ -44,8 +43,8 @@ Variables
   --clr-green-light: hsl(125, 71%, 66%);
   --clr-gold: rgb(168, 15, 66);
   --clr-black: #222;
-  --ff-primary: "Roboto", sans-serif;
-  --ff-secondary: "Open Sans", sans-serif;
+  --ff-primary: font-family: 'Poppins', sans-serif;
+  --ff-secondary: font-family: 'Poppins', sans-serif;
   --transition: all 0.3s linear;
   --spacing: 0.25rem;
   --radius: 0.5rem;
